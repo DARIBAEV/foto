@@ -55,7 +55,7 @@
           },
           "title": "<b><a href=\"C:\\Сайт\\Меню\\index.html\">Фотосуреттер</a></b>",
           "text": "Mobirise comes with huge collection of pre made layouts to help make your development faster.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"C:\\Сайт\\Меню\\index.html\" data-toolbar=\"-mbrBtnMove\">Меню</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://daribaev.github.io/menu\" data-toolbar=\"-mbrBtnMove\">Меню</a>",
           "alias": "purity/components",
           "_tags": [
             "Тема"
